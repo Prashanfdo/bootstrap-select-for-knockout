@@ -1,5 +1,7 @@
-bootstrap-select
+Bootstrap Select Box for Knockout
 ================
+
+Bootsrap
 
 A custom select / multiselect for @twitter bootstrap using button dropdown, designed to behave like regular Bootstrap selects;
 
@@ -9,10 +11,7 @@ See an  example [here](http://silviomoreto.github.com/bootstrap-select/).
 
 ## Authors
 
-[Silvio Moreto](http://github.com/silviomoreto),
-[Ana Carolina](http://github.com/anacarolinats),
-[caseyjhol](https://github.com/caseyjhol), and
-[Matt Bryson](https://github.com/mattbryson).
+[Prashan Fernando](//github.com/Prashanfdo)
 
 ## Usage
 
@@ -33,6 +32,10 @@ Or just
     $('select').selectpicker();
 
 Checkout the [documentation](http://silviomoreto.github.com/bootstrap-select/) for further information.
+
+## Credits
+
+Forked from [bootstrap-select](http://silviomoreto.github.com/bootstrap-select/).
 
 ## Copyright and license
 
